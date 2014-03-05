@@ -7,3 +7,5 @@ puts "Testing confirmation of function"
 puts " go again"
 
 puts "yay"
+
+puts "this"
