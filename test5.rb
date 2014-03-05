@@ -3,3 +3,5 @@
 puts "Fifth test script"
 
 puts "Change5"
+
+puts "start"
