@@ -9,3 +9,5 @@ puts "start"
 puts "now"
 
 puts "maybe not"
+
+puts "close"
