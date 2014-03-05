@@ -2,3 +2,4 @@
 
 puts "Fifth test script"
 
+puts "now"
