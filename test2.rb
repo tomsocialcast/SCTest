@@ -4,3 +4,4 @@ puts "Second test"
 
 puts "Testing confirmation of function"
 
+puts "now"
