@@ -2,6 +2,4 @@
 
 puts "Second test"
 
-puts "Change1"
-
-puts "almost"
+puts "Testing confirmation of function"
